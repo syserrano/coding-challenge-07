@@ -1,0 +1,16 @@
+body {
+    font-family: victoria, serif;
+    color:rgb(193, 190, 215);
+    margin: 10px;
+    background-color: rgb(87, 150, 198);
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color:rgb(21, 21, 110);
+    background-color: slateblue;
+    font-family: fantasy;
+    font-size: 25px;
+    border-radius: 20px;
+}
