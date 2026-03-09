@@ -14,3 +14,22 @@ header {
     font-size: 25px;
     border-radius: 20px;
 }
+
+main {
+    padding: 20px;
+    background-color: rgb(21, 21, 110);
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
